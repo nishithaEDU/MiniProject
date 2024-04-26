@@ -1,0 +1,46 @@
+Case Study: Enquiry of Building Project 
+
+Problem Statement:
+
+Read the list of the completed projects by the builder
+
+Go to the Builders site
+Display the list of the completed projects
+Read names of the completed projects
+Display Enquire Now Page
+Verify if Contact Us text is displayed on the page
+Read the email address to contact
+
+Suggested site: https://ishahomes.com 
+
+
+Detailed Description: 
+
+Launch the application in the specified browser
+Handle any popups and the live chat that may appear
+Maximize the browser and Navigate to the “Completed Projects” page by clicking on “Completed Projects” menu link.
+It displays all the projects completed by Isha’s homes company.
+Scroll down and count total number of completed projects and print it to console.
+Display the names of first five completed projects to the console
+Scroll down and click on “Enquire Now” button
+Verify if “Contact Info” text is displayed on the page
+Read and display the email address for contact to console
+Capture the Screenshot of the result
+Close the Browser
+
+
+Output in console:
+
+Completed Projects: 24
+The names of the first five completed projects are:
+Isha Avni
+Isha Ishtabhumi
+Isha Lakefront
+Isha Santhosham
+Isha Anandham
+CONTACT US is displayed on the page
+The email address is displayed below :
+marketing@ishahomes.com
+Screenshot has been captured!
+
+
